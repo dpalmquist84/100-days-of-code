@@ -3,7 +3,7 @@
 ### Day 1: June 2, 2017 (Example 1)
 
 
-**Today's Progress**: continued to work on building a binary algorith app in JavaScript
+**Today's Progress**: Finished the binary algorith app in JavaScript.  Started to build my portolio website.
 
 **Thoughts:** There is still one function that I am having difficulty with.
 
