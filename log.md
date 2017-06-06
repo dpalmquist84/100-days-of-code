@@ -20,11 +20,29 @@
 
 ### Day 3: June 4th, 2017
 
-**Today's Progress**: Started to learn some JavaScript
+**Today's Progress**: Started to learn some JavaScript.  Total time coded 1 hours
 
 **Thoughts:**I'm very frustrated with an escape challange on FCC
 
 **Link to work** https://www.freecodecamp.com/challenges/escape-sequences-in-strings#?solution=%0Avar%20myStr%3B%20%22FirstLine%5Cn%5CSecondLine%5CrThridLine%22%0A%0A%0A
+
+###Day 4: June 5th, 2017
+
+**Today's Progress**:  Continued to learn some more JavaScript.  Total time coded 2 hours
+
+**Thoughts:** Finally fiqured it out after two hours
+
+**Link to work:** https://codepen.io/dpalmqiust84
+
+###Day 5: June 5th, 2017
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** https://codepen.io/dpalmqiust84
+
+
 
 
 
