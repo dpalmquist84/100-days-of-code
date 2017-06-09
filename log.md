@@ -34,11 +34,35 @@
 
 **Link to work:** https://codepen.io/dpalmqiust84
 
-###Day 5: June 5th, 2017
+###Day 5: June 6th, 2017
 
-**Today's Progress**:  
+**Today's Progress**:  Did some more JavaScript.  Coded for 1 hour.
 
-**Thoughts:** 
+**Thoughts:** Its coming together
+
+**Link to work:** https://codepen.io/dpalmqiust84
+
+###Day 5: June 7th, 2017
+
+**Today's Progress**:  Started my prework for Bootcamp.  Coded for 4 hours
+
+**Thoughts:** Excited to get started
+
+**Link to work:** https://codepen.io/dpalmqiust84
+
+###Day 5: June 8th, 2017
+
+**Today's Progress**:  Built a working website today.  It took 4 hours.
+
+**Thoughts:** I'm getting faster at this.
+
+**Link to work:** https://codepen.io/dpalmqiust84
+
+###Day 5: June 9th, 2017
+
+**Today's Progress**:  Styled a website today with CSS.  Also built a website with JavaScript.  Coded for 3 hours
+
+**Thoughts:** I spelt a function command wrong and didnt realize it for an hour.
 
 **Link to work:** https://codepen.io/dpalmqiust84
 
