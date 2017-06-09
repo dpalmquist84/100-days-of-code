@@ -26,7 +26,7 @@
 
 **Link to work** https://www.freecodecamp.com/challenges/escape-sequences-in-strings#?solution=%0Avar%20myStr%3B%20%22FirstLine%5Cn%5CSecondLine%5CrThridLine%22%0A%0A%0A
 
-###Day 4: June 5th, 2017
+### Day 4: June 5th, 2017
 
 **Today's Progress**:  Continued to learn some more JavaScript.  Total time coded 2 hours
 
@@ -34,7 +34,7 @@
 
 **Link to work:** https://codepen.io/dpalmqiust84
 
-###Day 5: June 6th, 2017
+### Day 5: June 6th, 2017
 
 **Today's Progress**:  Did some more JavaScript.  Coded for 1 hour.
 
@@ -42,7 +42,7 @@
 
 **Link to work:** https://codepen.io/dpalmqiust84
 
-###Day 5: June 7th, 2017
+### Day 6: June 7th, 2017
 
 **Today's Progress**:  Started my prework for Bootcamp.  Coded for 4 hours
 
@@ -50,7 +50,7 @@
 
 **Link to work:** https://codepen.io/dpalmqiust84
 
-###Day 5: June 8th, 2017
+### Day 7: June 8th, 2017
 
 **Today's Progress**:  Built a working website today.  It took 4 hours.
 
@@ -58,7 +58,7 @@
 
 **Link to work:** https://codepen.io/dpalmqiust84
 
-###Day 5: June 9th, 2017
+### Day 8: June 9th, 2017
 
 **Today's Progress**:  Styled a website today with CSS.  Also built a website with JavaScript.  Coded for 3 hours
 
