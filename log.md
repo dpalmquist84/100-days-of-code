@@ -66,6 +66,25 @@
 
 **Link to work:** https://codepen.io/dpalmqiust84
 
+### Day 9: June 10th, 2017
+
+**Today's Progress**:  Finished my prework today.  Coded for 1 hour
+
+**Thoughts:** i'm glad that is over with
+
+**Link to work:** https://codepen.io/dpalmqiust84
+
+### Day 10: June 11th, 2017
+
+**Today's Progress**:  Worked on my JavaScript today
+
+**Thoughts:** figuring out how to manipulate arrays
+
+**Link to work:** https://codepen.io/dpalmqiust84
+
+
+
+
 
 
 
