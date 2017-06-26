@@ -178,7 +178,7 @@
 
 **link to work:**
 
-### Day 23: June 23rd, 2017
+### Day 23: June 24th, 2017
 
 **Today's Progress:** spent some time on the homework today.  Total time coded 4 hours
 
@@ -186,7 +186,7 @@
 
 **link to work:**https://dpalmquist84.github.io/Bootstrap-portfolio/
 
-### Day 23: June 23rd, 2017
+### Day 23: June 25th, 2017
 
 **Today's Progress:** class today.  I think i'm pretty far ahead on my homework.  Total time coded 2 hours
 
