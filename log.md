@@ -170,6 +170,30 @@
 
 **Link to work:** https://dpalmquist84.github.io/Recommened_Assignment/
 
+### Day 22: June 23rd, 2017
+
+**Today's Progress:** spent some time on the homework today.  Total time coded 2 hours
+
+**Thoughts:** Now on to make my portfolio mobile responsive
+
+**link to work:**
+
+### Day 23: June 23rd, 2017
+
+**Today's Progress:** spent some time on the homework today.  Total time coded 4 hours
+
+**Thoughts:** Now on to make my portfolio mobile responsive
+
+**link to work:**https://dpalmquist84.github.io/Bootstrap-portfolio/
+
+### Day 23: June 23rd, 2017
+
+**Today's Progress:** class today.  I think i'm pretty far ahead on my homework.  Total time coded 2 hours
+
+**Thoughts:** worked on debugging my portfolio website.
+
+**link to work:**https://dpalmquist84.github.io/Bootstrap-portfolio/
+
 
 
 
