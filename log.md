@@ -20,7 +20,7 @@
 
 
 
-### Day 3: Septermber 9th, 2017
+### Day 3: September 9th, 2017
 
 **Today's Progress**:  Worked on building an amazon clone today.  Went to a meet up where we started coded with node and express
 
@@ -28,14 +28,13 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
-### Day 12: June 13th, 2017
+### Day 4: Septermber 10th, 2017
 
-**Today's Progress**: First day of boot camp.  Total time coded 3 hours
+**Today's Progress**: more NPM express today.  Worked more work on CSS.
 
-**Thoughts:** Its going to be alot.  
+**Thoughts:** Server side funcitonality!!!.  
 
-**Link to work:** https://codepen.io/dpalmqiust84
-
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
 
 
