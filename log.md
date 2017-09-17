@@ -36,6 +36,54 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
+### Day 5: Septermber 11th, 2017
+
+**Today's Progress**: Got a CSS certification today.  Worked on the amazon clone
+
+**Thoughts:** mySql is coming together.  I had to start my code over and as I was going down the wrong path
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 5: Septermber 12th, 2017
+
+**Today's Progress**: more work on the amazon clone.  A lot of mySQL to go.
+
+**Thoughts:** functionality built it.  Have to work on the UI
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 6: Septermber 13th, 2013
+
+**Today's Progress**: started the manger portion of the amazon clone. 
+
+**Thoughts:** working on the UX, adding color and time outs.
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 7: Septermber 14th, 2013
+
+**Today's Progress**: finished the manger portion of the amazon clone
+
+**Thoughts:** UX is looking good.  Recorded the terimanal
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 6: Septermber 15th, 2013
+
+**Today's Progress**: Started express server.  Installing heroku
+
+**Thoughts:** Herkou looks confusing but functional
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 6: Septermber 16th, 2013
+
+**Today's Progress**: Finally got heroku installed.  Now to load actual apps into it 
+
+**Thoughts:** Finally getting around to the back-end
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
 
 
 
