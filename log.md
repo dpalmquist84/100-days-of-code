@@ -68,7 +68,7 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
-### Day 6: Septermber 15th, 2013
+### Day 8: Septermber 15th, 2013
 
 **Today's Progress**: Started express server.  Installing heroku
 
@@ -76,11 +76,19 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
-### Day 6: Septermber 16th, 2013
+### Day 9: Septermber 16th, 2013
 
 **Today's Progress**: Finally got heroku installed.  Now to load actual apps into it 
 
 **Thoughts:** Finally getting around to the back-end
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 10: Septermber 16th, 2013
+
+**Today's Progress**: Made a tic tac toe game with javascript and the minimax algorithm
+
+**Thoughts:** I really don't know how the algorith works but i'm starting to learn a little more about it
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
