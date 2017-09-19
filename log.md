@@ -52,7 +52,7 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
-### Day 6: Septermber 13th, 2013
+### Day 6: Septermber 13th, 2017
 
 **Today's Progress**: started the manger portion of the amazon clone. 
 
@@ -60,7 +60,7 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
-### Day 7: Septermber 14th, 2013
+### Day 7: Septermber 14th, 2017
 
 **Today's Progress**: finished the manger portion of the amazon clone
 
@@ -68,7 +68,7 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
-### Day 8: Septermber 15th, 2013
+### Day 8: Septermber 15th, 2017
 
 **Today's Progress**: Started express server.  Installing heroku
 
@@ -76,7 +76,7 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
-### Day 9: Septermber 16th, 2013
+### Day 9: Septermber 16th, 2017
 
 **Today's Progress**: Finally got heroku installed.  Now to load actual apps into it 
 
@@ -84,7 +84,7 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
-### Day 10: Septermber 16th, 2013
+### Day 10: September 16th, 2017
 
 **Today's Progress**: Made a tic tac toe game with javascript and the minimax algorithm
 
@@ -92,7 +92,21 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
+### Day 11: Septermber 17th, 2017
 
+**Today's Progress**: Made a tic tac toe game with javascript and the minimax algorithm
+
+**Thoughts:** I really don't know how the algorith works but i'm starting to learn a little more about it
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 12: Septermber 18th, 2017
+
+**Today's Progress**: Deployed my first app to heroku
+
+**Thoughts:** I am now a full stack wizard
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/ , https://immense-reaches-71787.herokuapp.com/
 
 
 
