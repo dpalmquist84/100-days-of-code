@@ -108,6 +108,21 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/ , https://immense-reaches-71787.herokuapp.com/
 
+### Day 13-25: Septermber 30th, 2017
+
+**Today's Progress**: I've been busy coding and haven't updated my log in days 
+
+**Thoughts:** I am now a full stack wizard
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/ , https://immense-reaches-71787.herokuapp.com/
+
+### Day 26: October 1, 2017
+
+**Today's Progress**: I have a job interview tomorrow.  Spent the day learning Drupal
+
+**Thoughts:** Wish me luck
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/ , https://immense-reaches-71787.herokuapp.com/
 
 
 
