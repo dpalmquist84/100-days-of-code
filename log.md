@@ -124,7 +124,53 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/ , https://immense-reaches-71787.herokuapp.com/
 
+### Day 26: October 1, 2017
 
+**Today's Progress**: I have a job interview tomorrow.  Spent the day learning Drupal
+
+**Thoughts:** Wish me luck
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/ , https://immense-reaches-71787.herokuapp.com/
+
+### Day 27: October 2, 2017
+
+**Today's Progress**: Phone interview went well. Class tonight. Learning more sequalize
+
+**Thoughts:** class was good today.  Discuessed jobs
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/ , https://immense-reaches-71787.herokuapp.com/
+
+### Day 28: October 3, 2017
+
+**Today's Progress**: Went to my first React meet up tonight.  It was great.  I met alot of developers.  React is crazy complicated.
+
+**Thoughts:** React is a lot to learn
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/ , https://immense-reaches-71787.herokuapp.com/
+
+### Day 29: October 4, 2017
+
+**Today's Progress**: Got my front-end developer certificate today from lynda.com.  Sass looks amazing.
+
+**Thoughts:** Sass is more complex that I thought.
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/ , https://immense-reaches-71787.herokuapp.com/
+
+### Day 30 - 54: October 5 - 24, 2017
+
+**Today's Progress**: Went to ATO2017, worked on a bunch of products.  Learning react.
+
+**Thoughts:** Sass is more complex that I thought.
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/ 
+
+### Day 55: October 25, 2017
+
+**Today's Progress**: Mongo web scrapper with handlebars.js
+
+**Thoughts:** mongo, mongo, mongo
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/ 
 
 
 
