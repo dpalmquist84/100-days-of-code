@@ -172,6 +172,36 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/ 
 
+### Day 56: October 26, 2017
 
+**Today's Progress**: Learning react
+
+**Thoughts:** do all the the things in react
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 57: October 27, 2017
+
+**Today's Progress**: More react and more react
+
+**Thoughts:** Its starting to make sense.  I understand components at least
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 58: October 28, 2017
+
+**Today's Progress**: class today was react. Converting the hanman game to react
+
+**Thoughts:** I have to components done and working.  Not sure what is wrong with the JS.
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 59: October 27, 2017
+
+**Today's Progress**: Refresing arrays and objects on FreeCodeCamp
+
+**Thoughts:** Have to brush up on the basics.
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
 
