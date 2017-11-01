@@ -204,4 +204,26 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
+### Day 60: October 28, 2017
 
+**Today's Progress**: Did some coding challanges on codewars
+
+**Thoughts:** next one up is morse code
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 61: October 29, 2017
+
+**Today's Progress**: Intro to react at class tonight.  It's complex
+
+**Thoughts:** classLess state vs state is so confusing
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist
+
+### Day 62: October 29, 2017
+
+**Today's Progress**: Tried to re-create last nights exercise failed horrilbly.  Started learning PHP
+
+**Thoughts:** how do you debug react?
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
