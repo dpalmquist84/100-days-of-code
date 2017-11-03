@@ -227,3 +227,43 @@
 **Thoughts:** how do you debug react?
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 63: October 30, 2017
+
+**Today's Progress**: why would you use PHP when you could just use javascript
+
+**Thoughts:** I think there has to be a reason
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 64: October 31, 2017
+
+**Today's Progress**: Halloween.  Got a call today froma  recruiter asking for PHP.  Time to learn
+
+**Thoughts:** I just don't know why people use PHP after ES6
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 65: November 1, 2017
+
+**Today's Progress**: Navpills!!!!
+
+**Thoughts:** time to redo my portfolio with nav pills
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 66: November 2, 2017
+
+**Today's Progress**: we were supposed to get google fiber today...we didnt :(
+
+**Thoughts:** at least will still have twc
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 67: November 2, 2017
+
+**Today's Progress**: worked on some algorith challanges on FCC
+
+**Thoughts:** I don't know why my regex wasn't working
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
