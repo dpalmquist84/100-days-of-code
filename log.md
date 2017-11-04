@@ -267,3 +267,11 @@
 **Thoughts:** I don't know why my regex wasn't working
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 68: November 3, 2017
+
+**Today's Progress**: Final react class today
+
+**Thoughts:** I don't know why my regex wasn't working
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
