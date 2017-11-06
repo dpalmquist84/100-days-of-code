@@ -275,3 +275,11 @@
 **Thoughts:** I don't know why my regex wasn't working
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 69: November 4, 2017
+
+**Today's Progress**: Started Redux today
+
+**Thoughts:** I have a redux meeting up tuesday...I hope it goes well
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
