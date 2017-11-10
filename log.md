@@ -283,3 +283,52 @@
 **Thoughts:** I have a redux meeting up tuesday...I hope it goes well
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 70: November 5, 2017
+
+**Today's Progress**: Class tonight.  React wrap up
+
+**Thoughts:** What to do on the final project
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 71: November 6, 2017
+
+**Today's Progress**: Finished intro to PHP this afternoon 
+
+**Thoughts:** Why not just use JS
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 72: November 7, 2017
+
+**Today's Progress**: Redux meetup.  Its crazy complicated
+
+**Thoughts:** Reducers!!!!
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 73: November 8, 2017
+
+**Today's Progress**: Started our final project tonight.  We have a client
+
+**Thoughts:** Need to find ways to covert HTML to pdf and the build a time clock in JS
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 74: November 9, 2017
+
+**Today's Progress**: I took all day but I finally got jsPDF to work 
+
+**Thoughts:** Now I have to fiqure out how to open in on a new page instead of automatically downloading
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 75: November 10, 2017
+
+**Today's Progress**: There is a timeclock in PHP.  Have to see if I can get it to work. 
+
+**Thoughts:** Now I have to fiqure out how to open in on a new page instead of automatically downloading
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
