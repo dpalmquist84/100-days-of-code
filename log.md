@@ -332,3 +332,35 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
+### Day 76: November 11, 2017
+
+**Today's Progress**: class today.  React is acting up.  Yarn is acting up 
+
+**Thoughts:** Time to get this project rolling.
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 77: November 12, 2017
+
+**Today's Progress**: Low key day.  Some mork on the project 
+
+**Thoughts:** Ran a bunch of errands today.
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 78: November 13, 2017
+
+**Today's Progress**: class today.  Spliting up duties.  Coded a time clock in JavaScript
+
+**Thoughts:** next onto API routes
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 79: November 14, 2017
+
+**Today's Progress**: class today.  Spliting up duties.  Coded a time clock in JavaScript
+
+**Thoughts:** next onto API routes
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
