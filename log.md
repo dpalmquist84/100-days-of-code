@@ -364,3 +364,19 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
+### Day 80: November 15, 2017
+
+**Today's Progress**: Project work today
+
+**Thoughts:** coding html pages all day
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 81: November 16, 2017
+
+**Today's Progress**: Introduction to Agile development tonight
+
+**Thoughts:** I got my api routes for one segment of the project to work.
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
