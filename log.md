@@ -380,3 +380,26 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
+### Day 82-86: November 17-20, 2017
+
+**Today's Progress**: Final project.  First Client Project.
+
+**Thoughts:** I got my api routes for one segment of the project to work.
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 87: November 21 2017
+
+**Today's Progress**: Final project.  First Client Project.
+
+**Thoughts:** OMG THE CLOCK WORKS!!!
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
+
+### Day 88: November 22-25th 2017
+
+**Today's Progress**: Thanksgiving break
+
+**Thoughts:** OMG THE CLOCK WORKS!!!
+
+**Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
