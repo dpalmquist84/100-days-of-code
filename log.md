@@ -404,11 +404,12 @@
 
 **Link to work:** https://dpalmquist84.github.io/DavidSPalmquist/
 
-### Day 89-100: November 22-25th 2017
+### Day 89-100: November 26 - December 3 2017
 
 **Today's Progress**: The project is done
 
 **Thoughts:** Time for round 2
 
 **Link to work:** https://oldmilburnie.herokuapp.com/
+
 
