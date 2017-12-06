@@ -412,4 +412,21 @@
 
 **Link to work:** https://oldmilburnie.herokuapp.com/
 
+### Day 101: December 4, 2017.
+
+**Today's Progress**: Polishing up the project
+
+**Thoughts:** I really hope daniel likes it
+
+**Link to work:** https://oldmilburnie.herokuapp.com/
+
+### Day 102: December 5, 2017.
+
+**Today's Progress**: trying to get the harvest search to work right.  React.js meetup tonight
+
+**Thoughts:** I want to learn react more
+
+**Link to work:** https://oldmilburnie.herokuapp.com/
+
+
 
