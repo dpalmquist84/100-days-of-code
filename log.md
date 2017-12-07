@@ -428,5 +428,11 @@
 
 **Link to work:** https://oldmilburnie.herokuapp.com/
 
+### Day 103: December 6, 2017.
 
+**Today's Progress**: Made the random quote machine but instead of quotes I used Chuck Norris Facts
+
+**Thoughts:** Fetch is very useful.
+
+**Link to work:** https://oldmilburnie.herokuapp.com/ https://codepen.io/dpalmquist84/pen/JOqydp?editors=1111
 
