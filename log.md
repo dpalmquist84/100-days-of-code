@@ -436,3 +436,13 @@
 
 **Link to work:** https://oldmilburnie.herokuapp.com/ https://codepen.io/dpalmquist84/pen/JOqydp?editors=1111
 
+### Day 101: January 1, 2018
+
+**Today's Progress**: My first technical job interview is tomorrow.  Doing algorithms today
+
+**Thoughts:** Wish me luck!
+
+**Link to work:** https://oldmilburnie.herokuapp.com/ https://codepen.io/dpalmquist84/pen/JOqydp?editors=1111
+
+
+
