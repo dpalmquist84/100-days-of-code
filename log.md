@@ -444,5 +444,22 @@
 
 **Link to work:** https://oldmilburnie.herokuapp.com/ https://codepen.io/dpalmquist84/pen/JOqydp?editors=1111
 
+### Day 102: January 2, 2018
+
+**Today's Progress**: My first technical job interview is tomorrow.  Doing algorithms today
+
+**Thoughts:** Wish me luck!
+
+**Link to work:** https://oldmilburnie.herokuapp.com/ https://codepen.io/dpalmquist84/pen/JOqydp?editors=1111
+
+### Day 103: January 3, 2018
+
+**Today's Progress**: I think I did well on my interview.  I have another with with the same comapny tomorrow.  Did some more alogrithms and started to learn angular
+
+**Thoughts:** Angular looks easy to use but it is very complex
+
+**Link to work:** https://oldmilburnie.herokuapp.com/ https://codepen.io/dpalmquist84/pen/JOqydp?editors=1111
+
+
 
 
