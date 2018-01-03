@@ -460,6 +460,13 @@
 
 **Link to work:** https://oldmilburnie.herokuapp.com/ https://codepen.io/dpalmquist84/pen/JOqydp?editors=1111
 
+### Day 104: January 4, 2018
+
+**Today's Progress**: Another informational interview today.  It went well, got along great with the guy.  Got back into react a little bit.
+
+**Thoughts:** Have to step up my react game
+
+**Link to work:** https://oldmilburnie.herokuapp.com/ https://codepen.io/dpalmquist84/pen/JOqydp?editors=1111
 
 
 
