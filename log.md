@@ -468,5 +468,13 @@
 
 **Link to work:** https://oldmilburnie.herokuapp.com/ https://codepen.io/dpalmquist84/pen/JOqydp?editors=1111
 
+### Day 105: January 5, 2018
+
+**Today's Progress**: yes Another informational interview today.  It went well, got along great with the guy.  Fellow ECU guy.  Had a mock tutoring session today on JavaScript. It went terrible..
+
+**Thoughts:** Have to get better at tutoring
+
+**Link to work:** https://oldmilburnie.herokuapp.com/ https://codepen.io/dpalmquist84/pen/JOqydp?editors=1111
+
 
 
