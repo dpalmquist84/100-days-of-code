@@ -476,5 +476,13 @@
 
 **Link to work:** https://oldmilburnie.herokuapp.com/ https://codepen.io/dpalmquist84/pen/JOqydp?editors=1111
 
+### Day 106: January 6, 2018
+
+**Today's Progress**: More alogirthims today.  Also had a good day at the gym.  I crituqued a guys portfolio, now i feel bad about mine.
+
+**Thoughts:** time to redo the porfolio
+
+**Link to work:** https://oldmilburnie.herokuapp.com/ https://codepen.io/dpalmquist84/pen/JOqydp?editors=1111
+
 
 
