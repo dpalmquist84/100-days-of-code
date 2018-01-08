@@ -484,5 +484,13 @@
 
 **Link to work:** https://oldmilburnie.herokuapp.com/ https://codepen.io/dpalmquist84/pen/JOqydp?editors=1111
 
+### Day 107: January 7, 2018
+
+**Today's Progress**: got it web security today.
+
+**Thoughts:** I think it's time to look more into it
+
+**Link to work:** https://oldmilburnie.herokuapp.com/ https://codepen.io/dpalmquist84/pen/JOqydp?editors=1111
+
 
 
