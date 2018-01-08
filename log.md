@@ -492,5 +492,12 @@
 
 **Link to work:** https://oldmilburnie.herokuapp.com/ https://codepen.io/dpalmquist84/pen/JOqydp?editors=1111
 
+### Day 107: January 8, 2018
+
+**Today's Progress**: Explored parralax today.  It looks great for UX.  Also got further into websecurity
+
+**Thoughts:** Parralax is great
+
+**Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
 
 
