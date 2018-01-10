@@ -509,4 +509,11 @@
 **Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
 
 
+### Day 109: January 10, 2018
+
+**Today's Progress**: Finally got mySql reinstalled.  At the auto shop doing some eliqounent JS
+
+**Thoughts:** They're working on the cabinet that the coffee machine is on...
+
+**Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
 
