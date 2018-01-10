@@ -500,4 +500,13 @@
 
 **Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
 
+### Day 108: January 9, 2018
+
+**Today's Progress**: got started with rail.  MySql won't work for some reason.
+
+**Thoughts:** Have to uninstall I think
+
+**Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
+
+
 
