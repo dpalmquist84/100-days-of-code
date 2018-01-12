@@ -517,3 +517,11 @@
 
 **Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
 
+### Day 11: January 11, 2018
+
+**Today's Progress**: Second night as a TA.  Getting into CSS
+
+**Thoughts:** I've agreed to do a talk on REST and HTTP.  Its quickly turning into a web services and REST vs SOAP talk.
+
+**Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
+
