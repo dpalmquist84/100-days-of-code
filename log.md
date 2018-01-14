@@ -525,3 +525,18 @@
 
 **Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
 
+### Day 12: January 12, 2018
+
+**Today's Progress**: not a lot of coding today as I was feeling sickly again.
+
+**Thoughts:** I've decided for my talk isntead of doing a deck i'm just going to deploy it via react to herokul
+
+**Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
+
+### Day 13: January 13, 2018
+
+**Today's Progress**: React-Router is working
+
+**Thoughts:** Now how to fiqure out how to add components into the pages.
+
+**Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
