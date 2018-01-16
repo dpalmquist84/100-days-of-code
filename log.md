@@ -540,3 +540,19 @@
 **Thoughts:** Now how to fiqure out how to add components into the pages.
 
 **Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
+
+### Day 14: January 14, 2018
+
+**Today's Progress**: started to put some text into the presenation
+
+**Thoughts:** Now how to fiqure out how to add components into the pages.
+
+**Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
+
+### Day 15: January 15, 2018
+
+**Today's Progress**: some more FCC alogrithm challanges
+
+**Thoughts:** Now how to fiqure out how to add components into the pages.
+
+**Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
