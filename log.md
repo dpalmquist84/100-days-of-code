@@ -556,3 +556,11 @@
 **Thoughts:** Now how to fiqure out how to add components into the pages.
 
 **Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
+
+### Day 16: January 16, 2018
+
+**Today's Progress**: Did an es6 cheatsheet today
+
+**Thoughts:** refactor all the things
+
+**Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
