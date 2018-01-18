@@ -564,3 +564,19 @@
 **Thoughts:** refactor all the things
 
 **Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
+
+### Day 17: January 17, 2018
+
+**Today's Progress**: Did an es6 cheatsheet today
+
+**Thoughts:** refactor all the things
+
+**Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
+
+### Day 18: January 18, 2018
+
+**Today's Progress**: Tutoring session today.  TA'ing class tonight
+
+**Thoughts:** css floats are tricky.  Introduced Britt to bootstrap
+
+**Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
