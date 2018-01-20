@@ -580,3 +580,11 @@
 **Thoughts:** css floats are tricky.  Introduced Britt to bootstrap
 
 **Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
+
+### Day 19: January 19, 2018
+
+**Today's Progress**: Another tutoring session today.  Had to a quick relearn on react.
+
+**Thoughts:** React is deep.  I think i'm starting to get it a little more
+
+**Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
