@@ -588,3 +588,27 @@
 **Thoughts:** React is deep.  I think i'm starting to get it a little more
 
 **Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
+
+### Day 20: January 20, 2018
+
+**Today's Progress**: Class today.  Students are starting to get git...and then they're not
+
+**Thoughts:** THey're getting there
+
+**Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
+
+### Day 21: January 21, 2018
+
+**Today's Progress**: Didn't code today.  Just helped students.  
+
+**Thoughts:** THey're getting there
+
+**Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
+
+### Day 20: January 20, 2018
+
+**Today's Progress**: Technical interview today.  had to create a website from scratch
+
+**Thoughts:** They're bringing me in for an in-person.
+
+**Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
