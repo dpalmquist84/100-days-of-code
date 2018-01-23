@@ -605,10 +605,18 @@
 
 **Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
 
-### Day 20: January 20, 2018
+### Day 22: January 22, 2018
 
 **Today's Progress**: Technical interview today.  had to create a website from scratch
 
 **Thoughts:** They're bringing me in for an in-person.
+
+**Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
+
+### Day 23: January 23, 2018
+
+**Today's Progress**: Some more react today.  Class tonight.  First homework is due.
+
+**Thoughts:** My wife is leaving me for Tennessee for a few days.  Pissed.
 
 **Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
