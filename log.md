@@ -620,3 +620,11 @@
 **Thoughts:** My wife is leaving me for Tennessee for a few days.  Pissed.
 
 **Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
+
+### Day 24: January 24, 2018
+
+**Today's Progress**: Git meetup tonight.  Graded some homeworks for students
+
+**Thoughts:** The meetup went well.  Jon's a dick
+
+**Link to work:** https://dpalmquist84.github.io/ParralaxPractice/
